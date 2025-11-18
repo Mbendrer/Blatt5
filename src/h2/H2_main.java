@@ -31,11 +31,7 @@ public class H2_main {
 	}
 		
 		
-//		for (int i = 8; i >= 9 - digits; i--) {
-//				a[i] = status % 10;
-//				status = status / 10;
-				
-		
+	
 		
 		
 		
