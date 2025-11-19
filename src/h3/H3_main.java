@@ -12,10 +12,11 @@ public class H3_main {
 		
 		int input = 6279;
 		int rest = input;
+		int anzahl;
 		
 		
 		for (int i=0; i<15; i++ ) {
-				int anzahl = rest/ einheiten [0][i];
+				anzahl = rest/ einheiten [0][i];
 				einheiten [1][i] = anzahl;
 				rest = rest - anzahl * einheiten [0][i];
 		
